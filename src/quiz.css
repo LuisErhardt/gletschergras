@@ -1,0 +1,25 @@
+.selection-tag.single,
+.number-of-selection {
+  display: none !important;
+}
+.react-quiz-container {
+  font-size: 1.5rem !important;
+  line-height: 2rem !important;
+}
+
+.answerBtn {
+  font-size: 1.25rem !important;
+  line-height: 1.75rem !important;
+}
+
+.react-quiz-container,
+#homeButton {
+  border: solid white 2px;
+  border-radius: 10px;
+  padding: 30px;
+  background-color: rgb(33, 33, 33);
+}
+
+.startQuizBtn {
+  border-radius: 8px !important;
+}
